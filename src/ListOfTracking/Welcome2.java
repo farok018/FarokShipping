@@ -10,6 +10,7 @@ public class Welcome2 {
 		System.out.println("By Farok");
 		System.out.println("success");
 		System.out.println("Trying Jenkins");
+		System.out.println("checking123");
 	}
 
 }
