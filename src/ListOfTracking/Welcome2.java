@@ -14,6 +14,7 @@ public class Welcome2 {
 		System.out.println("try agaon POLLSCM");
 		System.out.println("check pollscm");
 		System.out.println("check if fail");
+		System.out.println("check 4");
 	}
 
 }
