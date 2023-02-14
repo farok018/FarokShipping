@@ -12,6 +12,7 @@ public class Welcome2 {
 		System.out.println("Trying Jenkins");
 		System.out.println("checking123");
 		System.out.println("try agaon POLLSCM");
+		System.out.println("check pollscm");
 	}
 
 }
