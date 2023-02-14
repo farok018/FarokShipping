@@ -9,6 +9,7 @@ public class Welcome2 {
 		System.out.println(51*11);
 		System.out.println("By Farok");
 		System.out.println("success");
+		System.out.println("Trying Jenkins");
 	}
 
 }
